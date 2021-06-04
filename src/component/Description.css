@@ -1,0 +1,12 @@
+.description
+{
+    display: flex;
+    justify-content:space-between;
+    
+    background-color: rgb(187, 130, 130);
+
+}
+.desc-title {
+    margin-top: 300px;
+    color: rgba(0, 0, 0, 0.575);
+}
